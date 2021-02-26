@@ -1,0 +1,14 @@
+{
+  "name": "mongo_db_connection",
+  "version": "0.0.1",
+  "description": "An example connection for mongo DB in js using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anganevagg",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "mongoose": "^5.11.18"
+  }
+}
